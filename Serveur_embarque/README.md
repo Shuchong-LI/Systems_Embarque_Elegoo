@@ -1,4 +1,4 @@
-# Afficheur de message sur ecran LCD, client-serveur, modèle TCP/IP
+# Afficheur de message sur écran LCD, client-serveur, modèle TCP/IP
 
 Projet en cours...
 
