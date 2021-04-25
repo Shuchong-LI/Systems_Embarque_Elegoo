@@ -10,7 +10,7 @@
 * BreadBoard
 * Rotary Potentiometer
 * Resistor 220Ω
-* 
+
 **Diagramme**
 
 ![](images/img0.jpeg)
