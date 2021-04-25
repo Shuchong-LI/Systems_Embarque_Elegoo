@@ -1,3 +1,3 @@
 # Introduction GIT
 
-Ce GIT a pour objectif de enregistrer les differents travail personnel dans le sujet du system embarque 
+Ce GIT a pour objectif registrer les projets personnels que j’ai réalisé en relation avec le système embarqué.
