@@ -1,8 +1,4 @@
-@settings {
-  font-size: 100;
-}
-
-**Control d'acces par badge**
+# Control d'acces par badge
 
 
 **Composant**
