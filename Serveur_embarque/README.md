@@ -1,6 +1,16 @@
-**Afficheur de message sur LCD, a travers .. client-serveur-client utilisant le modele TCP/IP**
+# Afficheur de message sur ecran LCD, client-serveur, modèle TCP/IP
 
 
-Composant
+**Composant**
 
-Graph
+* Elegoo Mega 2560
+* Membrane Switch Module 4x4
+* RC522
+* LCD 16x2
+* BreadBoard
+* Rotary Potentiometer
+* Resistor 220Ω
+* 
+**Diagramme**
+
+![](images/img0.jpeg)
